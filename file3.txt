@@ -1,2 +1,1 @@
-test file 2 all in one
-......
+Final changes done for file3 master and whoops resolved
