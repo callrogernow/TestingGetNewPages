@@ -1,3 +1,1 @@
-file3 thried time differnte stuff now in master
-......
-
+Final changes done for file3 master and whoops resolved
